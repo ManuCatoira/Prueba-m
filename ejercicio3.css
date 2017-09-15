@@ -1,0 +1,35 @@
+
+.contenedor{
+    max-width:1000px;
+    margin: auto;
+}
+.gris{
+    float: left;
+    width: 80%;
+    height: 100px;
+    background-color: grey
+}
+.violeta{
+    float: left;
+    width: 80%;
+    height: 100px;
+    background-color: #8A5483
+}
+.rosa{
+    float: right;
+    width: 30%;
+    height: 500px;
+    background-color: #E7ADD9
+}
+.marron{
+    float: left;
+    width: 50%;
+    height: 200px;
+    background-color: brown
+}
+.azul{
+    float: left;
+    width: 50%;
+    height: 200px;
+    background-color: #4A66E4
+}
